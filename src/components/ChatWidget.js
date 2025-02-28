@@ -39,8 +39,6 @@ const ChatWidget = () => {
     <div
       style={{
         position: "fixed",
-        bottom: "20px",
-        right: "20px",
         width: "300px",
         height: "400px",
         backgroundColor: "white",
